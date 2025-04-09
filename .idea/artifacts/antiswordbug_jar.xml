@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="antiswordbug:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/antiswordbug_jar</output-path>
+    <root id="archive" name="antiswordbug.jar">
+      <element id="module-output" name="antiswordbug" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bstats/bstats-bukkit/3.0.2/bstats-bukkit-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bstats/bstats-base/3.0.2/bstats-base-3.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive - AARHUS TECH/Documents/spigot-1.8.8/output/spigot-1.8.8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

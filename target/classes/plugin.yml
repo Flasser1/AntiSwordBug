@@ -1,0 +1,4 @@
+name: AntiSwordBug
+version: '1.0'
+main: me.flasser.antiSwordBug.AntiSwordBug
+api-version: '1.8.8'

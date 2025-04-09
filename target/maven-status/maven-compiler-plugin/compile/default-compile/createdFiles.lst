@@ -1,0 +1,5 @@
+me\flasser\antiSwordBug\listeners\InventoryOpen.class
+me\flasser\antiSwordBug\listeners\EntityDamage.class
+me\flasser\antiSwordBug\AntiSwordBug.class
+me\flasser\antiSwordBug\listeners\ToggleSprint.class
+me\flasser\antiSwordBug\utils\FixSwordBug.class
