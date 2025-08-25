@@ -10,6 +10,7 @@ public final class AntiSwordBug extends JavaPlugin {
 
     @Override
     public void onEnable() {
+
         int pluginId = 24433;
         Metrics metrics = new Metrics(this, pluginId);
 

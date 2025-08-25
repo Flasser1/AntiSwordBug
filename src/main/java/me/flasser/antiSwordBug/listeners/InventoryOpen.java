@@ -15,6 +15,6 @@ public class InventoryOpen implements Listener {
     public void onInventoryOpen(InventoryOpenEvent e) {
         Bukkit.getScheduler().runTaskLater((Plugin) this, () -> {
             FixSwordBug.fixSwordBug((CraftPlayer) e.getPlayer());
-        }, 1L);
+        }, 1);
     }
 }
